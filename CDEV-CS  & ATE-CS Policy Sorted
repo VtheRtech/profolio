@@ -17,6 +17,7 @@ FROM "CDEV-CSFX"
 SELECT "case", COUNT(*)
 FROM "CDEV-CSFV"
 GROUP BY "case"
+
 /////////////////////////////////////////////////////////////////////////////////////
 
 SELECT * FROM PUBLIC."ATE-CS"
