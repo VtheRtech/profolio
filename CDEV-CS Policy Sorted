@@ -14,6 +14,6 @@ WHEN "Hits" = 0 THEN 'INUSE_NOHITS'
 END
 FROM "CDEV-CSFX"
 ===============
-SELECT "Policy_Name", "Rule_Value","case"
+SELECT "case", COUNT(*)
 FROM "CDEV-CSFV"
-GROUP BY "Policy_Name","Rule_Value","case"
+GROUP BY "case"
