@@ -6,10 +6,14 @@ END
 FROM PUBLIC."CDEV-CS"
 =============
 SELECT * FROM "CDEV-CSFX"
-
 ==============
+CREATE VIEW "CDEV-CSFV" AS
 SELECT "Policy_Name", "Rule_Value",
 CASE WHEN "Hits" = 1 THEN 'NOT BOUND'
 WHEN "Hits" = 0 THEN 'INUSE_NOHITS'
 END
 FROM "CDEV-CSFX"
+===============
+SELECT "Policy_Name", "Rule_Value","case"
+FROM "CDEV-CSFV"
+GROUP BY "Policy_Name","Rule_Value","case"
