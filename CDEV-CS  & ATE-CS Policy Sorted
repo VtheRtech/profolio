@@ -1,0 +1,46 @@
+CREATE VIEW "CDEV-CSFX" AS
+SELECT "Policy_Name", "Rule_Value",
+CASE WHEN "Hits" IS NULL THEN '1'
+ELSE "Hits"
+END
+FROM PUBLIC."CDEV-CS"
+=============
+SELECT * FROM "CDEV-CSFX"
+==============
+CREATE VIEW "CDEV-CSFV" AS
+SELECT "Policy_Name", "Rule_Value",
+CASE WHEN "Hits" = 1 THEN 'NOT BOUND'
+WHEN "Hits" = 0 THEN 'INUSE_NOHITS'
+END
+FROM "CDEV-CSFX"
+===============
+SELECT "case", COUNT(*)
+FROM "CDEV-CSFV"
+GROUP BY "case"
+/////////////////////////////////////////////////////////////////////////////////////
+
+SELECT * FROM PUBLIC."ATE-CS"
+==========
+CREATE VIEW "ATE-CSFX" AS
+SELECT "Policy_Name", "Rule_Value",
+CASE WHEN "Hits" IS NULL THEN '1'
+ELSE "Hits"
+END
+FROM PUBLIC."ATE-CS"
+==========
+CREATE VIEW "ATE-CSVX" AS
+SELECT "Policy_Name", "Rule_Value",
+CASE WHEN "Hits" = 1 THEN 'NOT BOUND'
+WHEN "Hits" = 0 THEN 'INUSE_NOHITS'
+ELSE 'INUSE_HITs'
+END AS case
+FROM "ATE-CSFX"
+=========
+SELECT "cases", COUNT(*)
+FROM "ATE-CSVX"
+GROUP BY "cases"
+======
+SELECT "Policy_Name","Hits"
+FROM PUBLIC."ATE-CS"
+WHERE "Hits" != '0'
+ORDER BY "Hits" ASC
