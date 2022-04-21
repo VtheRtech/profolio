@@ -1,0 +1,15 @@
+CREATE VIEW "CDEV-CSFX" AS
+SELECT "Policy_Name", "Rule_Value",
+CASE WHEN "Hits" IS NULL THEN '1'
+ELSE "Hits"
+END
+FROM PUBLIC."CDEV-CS"
+=============
+SELECT * FROM "CDEV-CSFX"
+
+==============
+SELECT "Policy_Name", "Rule_Value",
+CASE WHEN "Hits" = 1 THEN 'NOT BOUND'
+WHEN "Hits" = 0 THEN 'INUSE_NOHITS'
+END
+FROM "CDEV-CSFX"
