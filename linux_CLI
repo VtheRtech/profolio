@@ -1,0 +1,80 @@
+Command sheet
+    • xdg-open ; opens folder/directory from terminal
+=========
+    • sudo virsh net-list –all ; checks virtual machines
+    • sudo systemctl enable libvirtd 
+    • sudo systemctl start libvirtd 
+    • sudo systemctl status libvirtd 
+    • sudo usermod -G libvirt -a dt(username)
+    • sudo virsh net-start default
+    • sudo virsh net-autostart default
+    • sudo virsh net-list –-all
+=======
+Moving VM’s to a subvolume
+Shutdown libvirt and all VMs 
+    • mv /var/lib/libvirt /var/lib/libvirt-old 
+    • btrfs subvolume create /var/lib/libvirt 
+    • mv /var/lib/libvirt-old/* /var/lib/libvirt/. 
+    • rmdir /var/lib/libvirt-old1 
+=======
+    • echo "blacklist pcspkr" | sudo tee /etc/modprobe.d/nobeep.conf
+        ◦ turns of blaring pc speaker
+=======
+tar -xvJf tor-browser-linux64-8.5.1_en-US.tar.xz
+./start-tor-browser.desktop –register-app
+====
+recalls last installed packages
+grep -i installed /var/log/pacman.log
+=====
+Give Su a password
+sudo passwd
+====
+
+# Check systemd failed services
+systemctl --failed
+
+# Log files check
+sudo journalctl -p 3 -xb
+
+# Update
+sudo pacman -Syu
+
+# Yay Update
+yay
+
+#Delete Pacman Cache
+sudo pacman -Scc
+
+# Delete Yay Cache
+yay -Scc
+
+# Delete unwanted dependencies
+yay -Yc
+
+# Check Orphan packages
+pacman -Qtdq
+
+# Remove Orphan packages
+sudo pacman -Rns $(pacman -Qtdq)
+
+# Clean the Cache
+rm -rf .cache/*
+
+# Clean the journal
+sudo journalctl --vacuum-time=2weeks
+=============================================
+sudo btrfs fi du / Note: you can make / any other mount point 
+    • Scrub SubVolume Recommended running every week!
+sudo btrfs scrub start / 
+    • Balance Subvolume for Performance
+sudo btrfs balance start -musage=50 -dusage=50 /
+Note: Use the musgae and dusage filters to only balance used blocks above 50 percent utilization
+sudo btrfs balance cancel / Stops running balance 
+    • List Subvolumes based on mountpoint
+==============================================
+acii art
+pipe.sh
+cbonsai
+fortune | cowsay -f tux
+regenerate grub
+sudo grub-mkconfig -o /boot/grub/grub.cfg
