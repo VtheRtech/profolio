@@ -39,6 +39,8 @@ things i learned a quick summmary: a hospitals community may get curious when ne
 
 
 [EBike Company Analysis in R](https://rpubs.com/geometry0401/977689)
+
+
 Hypothesis: daily usage numbers are higher among member than they are among casual members.
 
 Result: Hypothesis was proven correct! usage certinaly is higher among members who are members! however casual users are often going longer distances!
