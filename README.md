@@ -29,7 +29,7 @@ things i learned a quick summmary.
 Hypothesis: the davince surgical device will improve patent care outcome in the hospital enviroment and improve vistations.
 
 methods: the dupoint analysis
-![image](https://user-images.githubusercontent.com/30744769/217332051-29e61b7f-bdc0-4565-979a-d5c219be335d.png)
+![image](https://user-images.githubusercontent.com/30744769/217332501-27d0840c-3bd1-4580-88b1-3dac3c2bba45.png)
 
 
 
