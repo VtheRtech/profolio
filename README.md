@@ -9,6 +9,8 @@ Results:Amarrmil seem to be gaining approximately 36.8 thousand points per hour,
 Conclusion:
 Hacking sites in the amarrmil wz and handing in research stuff probably does almost nothing relative to the contribution that system contestion plays in achieving victory in the current event.
 
+
+things i learned a quick summmary.
 1. Assuming no change in system ownership (unlikely tbh), Amarrmil and Minmil will achieve their victory threshold in 8 and 29 days, respectively.
 
 2. CCP may have added a baseline rate of victory point gain for amarrmil and minmil (independent of how many systems are held).
