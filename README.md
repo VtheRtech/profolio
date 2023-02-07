@@ -6,9 +6,11 @@ Hypothesis: CCP implemented victory point gain mechanic such that each faction g
 
 Hacking sites in the amarrmil wz and handing in research stuff probably does almost nothing relative to the contribution that system contestion plays in achieving victory in the current event.
 
-    1. Assuming no change in system ownership (unlikely tbh), Amarrmil and Minmil will achieve their victory threshold in 8 and 29 days, respectively.
-    2. CCP may have added a baseline rate of victory point gain for amarrmil and minmil (independent of how many systems are held).
-    3. Passive victory point gain for each faction is estimated to be approximately 12,000 * (n+1) points per hour, where n is the number of systems currently being held by the faction.
+1. Assuming no change in system ownership (unlikely tbh), Amarrmil and Minmil will achieve their victory threshold in 8 and 29 days, respectively.
+
+2. CCP may have added a baseline rate of victory point gain for amarrmil and minmil (independent of how many systems are held).
+
+3. Passive victory point gain for each faction is estimated to be approximately 12,000 * (n+1) points per hour, where n is the number of systems currently being held by the faction.
    
 
 
