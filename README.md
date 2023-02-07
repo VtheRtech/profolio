@@ -28,7 +28,7 @@ things i learned a quick summmary.
 
 Hypothesis: the davince surgical device will improve patent care outcome in the hospital enviroment and improve vistations.
 
-Results: visitations where up the first few months after installing the device, however after that it feel back to normal levels
+Results: visitations where up the first few months after installing the device, However those numbers should not be be expected to stay the same as extrenal studies indicate that a drop of revenue back to the first year is typcially what follows. 
 
 things i learned a quick summmary: a hospitals community may get curious when new surgical technology is introduced which may result in increased vistations to that hosptial but it falls off if patent care outcomes do not change. 
 
