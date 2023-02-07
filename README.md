@@ -16,7 +16,8 @@ things i learned a quick summmary.
 2. CCP may have added a baseline rate of victory point gain for amarrmil and minmil (independent of how many systems are held).
 
 3. Passive victory point gain for each faction is estimated to be approximately 12,000 * (n+1) points per hour, where n is the number of systems currently being held by the faction.
-   
+![image](https://user-images.githubusercontent.com/30744769/217324202-98761ab1-aa10-4419-a90a-7ddc8845f4f8.png)
+
 
 
 [Link to Vizualizations](https://public.tableau.com/app/profile/vcumbo)
