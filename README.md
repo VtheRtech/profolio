@@ -23,4 +23,11 @@ things i learned a quick summmary.
 
 [Davince Surgical Device Analysis](https://docs.google.com/spreadsheets/d/18idxTHqrcXpSKpOtMjwggpKKy2MqbKw2/edit?usp=sharing&ouid=103416153781129465349&rtpof=true&sd=true)
 
+Hypothesis: the davince surgical device will improve patent care outcome in the hospital enviroment and improve vistations.
+
+Results: visitations where up the first few months after installing the device, however after that it feel back to normal levels
+
+things i learned a quick summmary: a hospitals community may get curious when new surgical technology is introduced which may result in increased vistations to that hosptial but it falls off if patent care outcomes do not change. 
+
+
 [EBike Company Analysis in R](https://rpubs.com/geometry0401/977689)
