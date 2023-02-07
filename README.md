@@ -25,6 +25,7 @@ things i learned a quick summmary.
 [Link to Vizualizations](https://public.tableau.com/app/profile/vcumbo)
 
 [Davince Surgical Device Analysis](https://docs.google.com/spreadsheets/d/18idxTHqrcXpSKpOtMjwggpKKy2MqbKw2/edit?usp=sharing&ouid=103416153781129465349&rtpof=true&sd=true)
+![image](https://user-images.githubusercontent.com/30744769/217331425-79c949d7-b6ff-4f5e-9a3c-a265edff0ac2.png)
 
 Hypothesis: the davince surgical device will improve patent care outcome in the hospital enviroment and improve vistations.
 
