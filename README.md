@@ -11,7 +11,7 @@ Hacking sites in the amarrmil wz and handing in research stuff probably does alm
 
 
 Insights Gained from this analysis:
-1. Assuming no change in system ownership (unlikely tbh), Amarrmil and Minmil will achieve their victory threshold in 8 and 29 days, respectively.
+1. Assuming no change in system ownership, Amarrmil and Minmil will achieve their victory threshold in 8 and 29 days, respectively.
 
 2. CCP may have added a baseline rate of victory point gain for amarrmil and minmil (independent of how many systems are held).
 
