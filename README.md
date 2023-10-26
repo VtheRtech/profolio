@@ -10,7 +10,7 @@ Conclusion:
 Hacking sites in the amarrmil wz and handing in research stuff probably does almost nothing relative to the contribution that system contestion plays in achieving victory in the current event.
 
 
-things i learned a quick summmary.
+Insights Gained from this analysis:
 1. Assuming no change in system ownership (unlikely tbh), Amarrmil and Minmil will achieve their victory threshold in 8 and 29 days, respectively.
 
 2. CCP may have added a baseline rate of victory point gain for amarrmil and minmil (independent of how many systems are held).
@@ -35,7 +35,7 @@ methods: the dupoint analysis
 
 Results: visitations where up the first few months after installing the device, However those numbers should not be be expected to stay the same as extrenal studies indicate that a drop of revenue back to the first year is typcially what follows. 
 
-things i learned a quick summmary: a hospitals community may get curious when new surgical technology is introduced which may result in increased vistations to that hosptial but it falls off if patent care outcomes do not change. 
+Insights Gained from this analysis: a hospitals community may get curious when new surgical technology is introduced which may result in increased vistations to that hosptial but it falls off if patent care outcomes do not change. 
 
 ![image](https://user-images.githubusercontent.com/30744769/217328899-e07e9a08-d881-4763-b071-e9ac37660606.png)
 ![image](https://user-images.githubusercontent.com/30744769/217328709-644d1b4f-38b6-40d2-a461-777b9ed0726a.png)
@@ -49,6 +49,8 @@ things i learned a quick summmary: a hospitals community may get curious when ne
 Hypothesis: daily usage numbers are higher among member than they are among casual members.
 
 Result: Hypothesis was proven correct! usage certinaly is higher among members who are members! however casual users are often going longer distances!
+
+
 ![image](https://user-images.githubusercontent.com/30744769/217328030-797a1a2b-2746-4f45-b814-8a9ec5124ff4.png)
 
 ![image](https://user-images.githubusercontent.com/30744769/217328099-46b3188b-a388-4cc8-bb0e-613042b37f3e.png)
