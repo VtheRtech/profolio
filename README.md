@@ -1,13 +1,13 @@
-# profolio-project
+# portfolio-project
 
 [Eve online Warzone Analysis](https://www.reddit.com/r/Eve/comments/y6aobj/an_assault_on_algebra_an_analysis_of_the/)
 
-Hypothesis: CCP implemented victory point gain mechanic such that each faction gains points even in the absence of systems being held.
+Hypothesis: CCP implemented a victory point gain mechanic such that each faction gains points without systems being held.
 
-Results:Amarrmil seem to be gaining approximately 36.8 thousand points per hour, while Minmil gain approximately 25.0 thousand points per hour.
+Results: Amarrmil seems to be gaining approximately 36.8 thousand points per hour, while Minmil gains approximately 25.0 thousand points per hour.
 
 Conclusion:
-Hacking sites in the amarrmil wz and handing in research stuff probably does almost nothing relative to the contribution that system contestion plays in achieving victory in the current event.
+Hacking sites in the amarrmil wz and handing in research probably does almost nothing relative to the contribution that system contestion plays in achieving victory in the current event.
 
 
 Insights Gained from this analysis:
@@ -26,16 +26,16 @@ Insights Gained from this analysis:
 
 [Davince Surgical Device Analysis](https://docs.google.com/spreadsheets/d/18idxTHqrcXpSKpOtMjwggpKKy2MqbKw2/edit?usp=sharing&ouid=103416153781129465349&rtpof=true&sd=true)
 
-Hypothesis: the davince surgical device will improve patent care outcome in the hospital enviroment and improve vistations.
+Hypothesis: the advanced surgical device will improve patient care outcomes in the hospital environment and improve visits.
 
-methods: the dupoint analysis
+methods: the DuPont analysis
 ![image](https://user-images.githubusercontent.com/30744769/217332624-1ac79ea8-f6ea-4913-9cfd-da14133fbcc7.png)
 
 
 
-Results: visitations where up the first few months after installing the device, However those numbers should not be be expected to stay the same as extrenal studies indicate that a drop of revenue back to the first year is typcially what follows. 
+Results: visitations were up the first few months after installing the device; however, those numbers should be different as external studies indicate that a drop in revenue back to the first year is typically what follows. 
 
-Insights Gained from this analysis: a hospitals community may get curious when new surgical technology is introduced which may result in increased vistations to that hosptial but it falls off if patent care outcomes do not change. 
+Insights Gained from this analysis: a hospital's community may get curious when new surgical technology is introduced, which may result in increased visits to that hospital, but it falls off if patient care outcomes stay the same. 
 
 ![image](https://user-images.githubusercontent.com/30744769/217328899-e07e9a08-d881-4763-b071-e9ac37660606.png)
 ![image](https://user-images.githubusercontent.com/30744769/217328709-644d1b4f-38b6-40d2-a461-777b9ed0726a.png)
@@ -46,12 +46,6 @@ Insights Gained from this analysis: a hospitals community may get curious when n
 [EBike Company Analysis in R](https://rpubs.com/geometry0401/977689)
 
 
-Hypothesis: daily usage numbers are higher among member than they are among casual members.
+Hypothesis: daily usage numbers are higher among members than casual members.
 
-Result: Hypothesis was proven correct! usage certinaly is higher among members who are members! however casual users are often going longer distances!
-
-
-![image](https://user-images.githubusercontent.com/30744769/217328030-797a1a2b-2746-4f45-b814-8a9ec5124ff4.png)
-
-![image](https://user-images.githubusercontent.com/30744769/217328099-46b3188b-a388-4cc8-bb0e-613042b37f3e.png)
-
+Result: The hypothesis was proven correct! Usage certainly is higher among members who are members! However, casual users are often going longer distances!
