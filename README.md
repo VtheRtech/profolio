@@ -48,4 +48,4 @@ Insights Gained from this analysis: a hospital's community may get curious when 
 
 Hypothesis: daily usage numbers are higher among members than casual members.
 
-Result: The hypothesis was proven correct! Usage certainly is higher among members who are members! However, casual users are often going longer distances!
+Result: The hypothesis was proven correct! Membership usage is certainly higher; however, casual users often travel longer distances!
