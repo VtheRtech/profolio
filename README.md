@@ -1,6 +1,9 @@
 # portfolio-project
 
 ## Regression Analysis
+
+![image](https://github.com/thealmanac1/profolio/assets/30744769/9cc7668e-34ed-4611-8401-f7a42f2c0ec2)
+
 [Eve online Warzone Analysis](https://www.reddit.com/r/Eve/comments/y6aobj/an_assault_on_algebra_an_analysis_of_the/)
 
 Hypothesis: CCP implemented a victory point gain mechanic such that each faction gains points without systems being held.
