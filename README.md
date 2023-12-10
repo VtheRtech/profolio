@@ -1,5 +1,6 @@
 # portfolio-project
 
+## Regression Analysis
 [Eve online Warzone Analysis](https://www.reddit.com/r/Eve/comments/y6aobj/an_assault_on_algebra_an_analysis_of_the/)
 
 Hypothesis: CCP implemented a victory point gain mechanic such that each faction gains points without systems being held.
@@ -21,8 +22,14 @@ Insights Gained from this analysis:
 ![image](https://user-images.githubusercontent.com/30744769/217324202-98761ab1-aa10-4419-a90a-7ddc8845f4f8.png)
 
 
-
 [Link to Vizualizations](https://public.tableau.com/app/profile/vcumbo)
+
+
+## Davinci Surgical Device Analysis
+
+![Img136_Xi_System_and_Nurse_High_Res_185258](https://github.com/thealmanac1/profolio/assets/30744769/f0f8bd8c-a75d-4182-af75-c9652608a281)
+
+
 
 [Davince Surgical Device Analysis](https://docs.google.com/spreadsheets/d/18idxTHqrcXpSKpOtMjwggpKKy2MqbKw2/edit?usp=sharing&ouid=103416153781129465349&rtpof=true&sd=true)
 
