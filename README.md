@@ -22,6 +22,8 @@ Insights Gained from this analysis:
 ![image](https://user-images.githubusercontent.com/30744769/217324202-98761ab1-aa10-4419-a90a-7ddc8845f4f8.png)
 
 
+## Trade Union Analysis
+
 [Link to Vizualizations](https://public.tableau.com/app/profile/vcumbo)
 
 
