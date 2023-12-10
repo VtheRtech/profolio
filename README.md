@@ -23,6 +23,7 @@ Insights Gained from this analysis:
 
 
 ## Trade Union Analysis
+![Dashboard 1(2)](https://github.com/thealmanac1/profolio/assets/30744769/7cedeaa5-a808-41a7-a513-124cc9085401)
 
 [Link to Vizualizations](https://public.tableau.com/app/profile/vcumbo)
 
