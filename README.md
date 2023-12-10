@@ -25,12 +25,6 @@ Insights Gained from this analysis:
 ![image](https://user-images.githubusercontent.com/30744769/217324202-98761ab1-aa10-4419-a90a-7ddc8845f4f8.png)
 
 
-## Trade Union Analysis
-![Dashboard 1(2)](https://github.com/thealmanac1/profolio/assets/30744769/7cedeaa5-a808-41a7-a513-124cc9085401)
-
-[Link to Vizualizations](https://public.tableau.com/app/profile/vcumbo)
-
-
 ## Davinci Surgical Device Analysis
 
 ![Img136_Xi_System_and_Nurse_High_Res_185258](https://github.com/thealmanac1/profolio/assets/30744769/f0f8bd8c-a75d-4182-af75-c9652608a281)
@@ -53,6 +47,12 @@ Insights Gained from this analysis: a hospital's community may get curious when 
 ![image](https://user-images.githubusercontent.com/30744769/217328899-e07e9a08-d881-4763-b071-e9ac37660606.png)
 ![image](https://user-images.githubusercontent.com/30744769/217328709-644d1b4f-38b6-40d2-a461-777b9ed0726a.png)
 ![image](https://user-images.githubusercontent.com/30744769/217331425-79c949d7-b6ff-4f5e-9a3c-a265edff0ac2.png)
+
+## Trade Union Analysis
+![Dashboard 1(2)](https://github.com/thealmanac1/profolio/assets/30744769/7cedeaa5-a808-41a7-a513-124cc9085401)
+
+[Link to Vizualizations](https://public.tableau.com/app/profile/vcumbo)
+
 
 
 
