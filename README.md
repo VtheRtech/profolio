@@ -30,14 +30,12 @@ Insights Gained from this analysis:
 ![Img136_Xi_System_and_Nurse_High_Res_185258](https://github.com/thealmanac1/profolio/assets/30744769/f0f8bd8c-a75d-4182-af75-c9652608a281)
 
 
-
-[Davince Surgical Device Analysis](https://docs.google.com/spreadsheets/d/18idxTHqrcXpSKpOtMjwggpKKy2MqbKw2/edit?usp=sharing&ouid=103416153781129465349&rtpof=true&sd=true)
-
 Hypothesis: the advanced surgical device will improve patient care outcomes in the hospital environment and improve visits.
 
 methods: the DuPont analysis
 ![image](https://user-images.githubusercontent.com/30744769/217332624-1ac79ea8-f6ea-4913-9cfd-da14133fbcc7.png)
 
+[Davince Surgical Device Analysis](https://docs.google.com/spreadsheets/d/18idxTHqrcXpSKpOtMjwggpKKy2MqbKw2/edit?usp=sharing&ouid=103416153781129465349&rtpof=true&sd=true)
 
 
 Results: visitations were up the first few months after installing the device; however, those numbers should be different as external studies indicate that a drop in revenue back to the first year is typically what follows. 
