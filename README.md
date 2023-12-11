@@ -50,7 +50,8 @@ Insights Gained from this analysis: a hospital's community may get curious when 
 
 
 ## Trade Union Analysis
-![Dashboard 1(2)](https://github.com/thealmanac1/profolio/assets/30744769/7cedeaa5-a808-41a7-a513-124cc9085401)
+![Dashboard 1(3)](https://github.com/thealmanac1/profolio/assets/30744769/97bcd612-214e-40ff-b81a-85e854d21dae)
+
 
 [Link to Vizualizations](https://public.tableau.com/app/profile/vcumbo)
 
