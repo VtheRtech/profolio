@@ -42,9 +42,12 @@ Results: visitations were up the first few months after installing the device; h
 
 Insights Gained from this analysis: a hospital's community may get curious when new surgical technology is introduced, which may result in increased visits to that hospital, but it falls off if patient care outcomes stay the same. 
 
-![image](https://user-images.githubusercontent.com/30744769/217328899-e07e9a08-d881-4763-b071-e9ac37660606.png)
-![image](https://user-images.githubusercontent.com/30744769/217328709-644d1b4f-38b6-40d2-a461-777b9ed0726a.png)
-![image](https://user-images.githubusercontent.com/30744769/217331425-79c949d7-b6ff-4f5e-9a3c-a265edff0ac2.png)
+![image](https://github.com/thealmanac1/profolio/assets/30744769/4b1df3cb-f1d8-45c6-ae50-95e84ac41c0f)
+![image](https://github.com/thealmanac1/profolio/assets/30744769/803b7c6f-689b-42fb-97a1-ce33fae6d39a)
+![image](https://github.com/thealmanac1/profolio/assets/30744769/aebb3b48-2880-4499-853c-3b644a7e1ff3)
+![image](https://github.com/thealmanac1/profolio/assets/30744769/cf260587-0b79-4377-afb0-c05c41738caa)
+
+
 
 ## Trade Union Analysis
 ![Dashboard 1(2)](https://github.com/thealmanac1/profolio/assets/30744769/7cedeaa5-a808-41a7-a513-124cc9085401)
