@@ -55,6 +55,7 @@ Insights Gained from this analysis: a hospital's community may get curious when 
 
 [Link to Vizualizations](https://public.tableau.com/app/profile/vcumbo)
 
+[Open Source Project on Trade Unions](https://github.com/Unfixable47/Trade-Union-Analysis/wiki)
 
 
 
